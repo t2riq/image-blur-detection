@@ -77,18 +77,18 @@ The model was evaluated on a held-out test set and achieved strong classificatio
 The confusion matrix and classification report demonstrate that the model is highly reliable at distinguishing between **blurry** and **sharp** images.
 
 ---
-##📈 Results Visualization
+## 📈 Results Visualization
 -The training and validation accuracy and loss over epochs are plotted:
 ```
 # Code used for plotting (already in notebook)
 ```
 ---
 
-##📄 License
+## 📄 License
 
-This project is licensed under the MIT License.
+-This project is licensed under the MIT License.
 ---
-📬 Contact
+## 📬 Contact
 
-For questions or suggestions:
+-For questions or suggestions:
 📧 tariqalajam@gmail.com
