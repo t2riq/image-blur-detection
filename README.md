@@ -85,10 +85,9 @@ The confusion matrix and classification report demonstrate that the model is hig
 ---
 
 ## 📄 License
-
--This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 ---
 ## 📬 Contact
 
--For questions or suggestions:
+For questions or suggestions:
 📧 tariqalajam@gmail.com
